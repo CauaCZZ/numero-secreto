@@ -16,6 +16,8 @@ Projeto desenvolvido durante os cursos de lógica de programação da Alura. O j
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JS"/>        
 </div>
 
+**Nota:** Este projeto focou no desenvolvimento da **lógica em JavaScript**. A estrutura HTML e o design CSS foram disponibilizados pela Alura
+
 ## 🧠 O que eu pratiquei:
 * Uso de funções com parâmetros e retorno.
 * Estruturas condicionais e de repetição.
